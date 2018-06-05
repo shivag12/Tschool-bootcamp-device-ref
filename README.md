@@ -1,4 +1,10 @@
-# Tschool-bootcamp-device-ref
+### Tschool-bootcamp-device-ref
+
+ - Sensor Tile DataSheet : http://www.st.com/content/ccc/resource/technical/document/data_brief/group0/01/fc/21/37/29/fe/44/7b/DM00298488/files/DM00298488.pdf/jcr:content/translations/en.DM00298488.pdf
+ 
+ - SensiBLE DataSheet : https://drive.google.com/file/d/0B0ddiMaht6sFdmk3UzVPRG1tV1k/view
+ 
+ ### ST BlueTooth Low Energy Device Characteristics : 
 
  - The feature mask is a bit field that provides information about which features are exported by the board. Currently, bits are mapped in the following way:
   
