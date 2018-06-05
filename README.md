@@ -35,5 +35,5 @@ A characteristic's data format must be the following:
  Since the BLE packet maximum length is 20 bytes, the maximumm size of a feature's data field is 18 bytes.
  
  
-For more information on the ST BLE : https://github.com/STMicroelectronics-CentralLabs/BlueSTSDK_Android 
+For more information on the ST BLE Protocol Specs, Please refer the BlueST protocol spec document attached. 
  
